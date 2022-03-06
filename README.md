@@ -4,7 +4,7 @@
 This is a todo list webapp to add and detete the tasks. The main aim of this project was to learn how to deploy fully managed MongoDb across **AWS** using **MongoDB Atlas** instead of hosting them locally.
 
 ## Deployment
-Deployed Website-https://thawing-retreat-57700.herokuapp.com/
+Deployed Website-https://to-do-listwebapp.herokuapp.com/
 
 ## Deployed using
 * MongoDB Atlas- For database

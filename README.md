@@ -1,7 +1,7 @@
 # ToDo List
 
 ## Description
-This is a todo list webapp to add and detete the tasks. The main aim of this project was to learn how to deploy fully managed MongoDb across **AWS** using **MongoDB Atlas** instead of hosting them locally.
+This is a todo list webapp to add and detete the tasks. The main aim of this project was to learn how to deploy fully managed MongoDb across **Heroku** using **MongoDB Atlas** instead of hosting them locally.
 
 ## Deployment
 Deployed Website-https://to-do-listwebapp.herokuapp.com/
